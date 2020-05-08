@@ -35,3 +35,11 @@ Fast OneDrive Index / FODI，无需服务器的 OneDrive 快速列表程序
 #### 安装
 
 - [利用腾讯云 SCF 及 Github Pages 免费部署 OneDrive 快速列表程序](https://logi.im/front-end/scf-fodi.html)
+
+提速方法：
+获取到自己的sharepoint的链接地址
+比如：xxxx.sharepoint.com
+
+host到这个地址ip为13.107.136.10 或 13.107.136.10
+
+13.107.136.10 *.sharepoint.com //*填自己的域名
