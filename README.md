@@ -1,4 +1,4 @@
-# OneDrive 
+# FODI
 
 Fast OneDrive Index / FODI，无需服务器的 OneDrive 快速列表程序
 from vcheckzen/FODI
@@ -45,3 +45,7 @@ from vcheckzen/FODI
 - host到这个地址ip为13.107.136.9 或 13.107.136.10
 
 - 13.107.136.9 *.sharepoint.com //*填自己的域名
+#### 来源
+- [vcheckzen Github](https://github.com/vcheckzen/FODI)
+- [Cloudflare Workers部署FODI – 一款 OneDrive 列表程序](https://www.daniao.org/8314.html#anchor-comment-9338)
+- [利用腾讯云 SCF 及 Github Pages 免费部署 OneDrive 快速列表程序](https://logi.im/back-end/fodi-on-cloudflare.html)
