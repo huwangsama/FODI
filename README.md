@@ -1,6 +1,7 @@
-# OneDrive from huwang
+# OneDrive 
 
 Fast OneDrive Index / FODI，无需服务器的 OneDrive 快速列表程序
+from vcheckzen/FODI
 
 #### 预览
 
@@ -38,9 +39,9 @@ Fast OneDrive Index / FODI，无需服务器的 OneDrive 快速列表程序
 
 #### 提速
 
-获取到自己的sharepoint的链接地址
-比如：xxxx.sharepoint.com
+- 获取到自己的sharepoint的链接地址
+- 比如：xxxx.sharepoint.com
 
-host到这个地址ip为13.107.136.10 或 13.107.136.10
+- host到这个地址ip为13.107.136.10 或 13.107.136.10
 
-13.107.136.10 *.sharepoint.com //*填自己的域名
+- 13.107.136.9 *.sharepoint.com //*填自己的域名
