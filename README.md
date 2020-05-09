@@ -42,6 +42,6 @@ from vcheckzen/FODI
 - 获取到自己的sharepoint的链接地址
 - 比如：xxxx.sharepoint.com
 
-- host到这个地址ip为13.107.136.10 或 13.107.136.10
+- host到这个地址ip为13.107.136.9 或 13.107.136.10
 
 - 13.107.136.9 *.sharepoint.com //*填自己的域名
